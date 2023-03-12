@@ -1,0 +1,7 @@
+// @include fontCreate($helvetica, 200, "/fonts/HelveticaNeueCyr-UltraLight");
+@include fontCreate($helvetica, 300, "/fonts/HelveticaNeueCyr-Thin");
+@include fontCreate($baseMono, 300, "/fonts/base-mono-wide-thin");
+@include fontCreate($baseMono, 400, "/fonts/base-mono-wide-regular");
+@include fontCreate($baseMono, 700, "/fonts/base-mono-wide-bold");
+@include fontCreate($inter, 400, "/fonts/Inter-Regular");
+@include fontCreate($inter, 700, "/fonts/Inter-Bold");
